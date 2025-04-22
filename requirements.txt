@@ -1,0 +1,7 @@
+pyautogui==0.9.54
+pywinauto==0.6.8
+pillow==10.1.0
+pywin32==306
+keyboard==0.13.5
+mouse==0.7.1
+python-dotenv==1.0.0 

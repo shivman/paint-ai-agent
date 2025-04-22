@@ -1,0 +1,24 @@
+# Ignore dependencies
+#node_modules/
+
+# Ignore build/output
+dist/
+build/
+
+# Ignore system files (MAC)
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore custom folders
+Archive/
+-p/
+logs/
+
+
+# Ignore file types
+*.log
+*.zip
+*.bak
